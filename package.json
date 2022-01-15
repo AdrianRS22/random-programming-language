@@ -1,0 +1,29 @@
+{
+  "name": "random-programming-language",
+  "version": "1.0.1",
+  "description": "This is a simple script to print a random programming language",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Adrian Rojas Sanchez <adrianrojasanchez@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-programing-language": "bin/global.mjs"
+  },
+  "preferGlobal": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianRS22/random-programming-language.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdrianRS22/random-programming-language/issues"
+  },
+  "homepage": "https://github.com/AdrianRS22/random-programming-language#readme"
+}
